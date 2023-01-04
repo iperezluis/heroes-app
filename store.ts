@@ -33,3 +33,5 @@ function uploadVideoToS3(videoFile) {
     });
   });
 }
+
+const a = () => {};
